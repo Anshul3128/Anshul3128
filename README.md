@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ansh a web developer
+- 👋 Hi, I’m Anshul a web developer
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning advanced programme react.js
+- 🌱 I’m recently done with react.js.
 - 📫 How to reach me ansh_randhawa2831
 - 😄 Pronouns: Ansh
 
